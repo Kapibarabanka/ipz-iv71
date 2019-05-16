@@ -1,0 +1,61 @@
+a:link {
+    color: blue;
+    text-decoration: none
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+
+}
+
+a:active {
+    color: blue;
+    text-decoration: underline;
+}
+
+* {
+    background-color: lightblue;
+    margin: 10px;
+    font-size: medium;
+}
+
+input[type='button'] {
+    background-color: darksalmon;
+    font-size: medium;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    }
+
+input[type='text'] {
+    background-color: whitesmoke;
+    width: 150px;
+    height: 25px;
+    font-size: medium;
+}
+
+input[type='password'] {
+    background-color: whitesmoke;
+    width: 150px;
+    height: 25px;
+    font-size: medium;
+}
+
+a {
+    font-size: large;
+
+}
