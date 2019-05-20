@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e78068-0e61-46c3-83b1-c1fa104b03aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/edit_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/edit_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/entarnce.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/entarnce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/main_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/main_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/personal_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/personal_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/start_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/start_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,20 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="253">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -152,6 +142,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
@@ -182,32 +173,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
-    <configuration name="main_page.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ipz-iv71/html/main_page.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$/">
-      <method v="2" />
-    </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/main.js" working-dir="$PROJECT_DIR$/js">
-      <method v="2" />
-    </configuration>
-    <configuration name="vue.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="vue.js" working-dir="$PROJECT_DIR$/js">
-      <method v="2" />
-    </configuration>
-    <configuration name="vue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="vue.js" working-dir="$USER_HOME$/Downloads">
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="js.build_tools.grunt">
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.main_page.html" />
       <item itemvalue="Node.js.main.js" />
+      <item itemvalue="Node.js.index.js" />
       <item itemvalue="Node.js.vue.js" />
       <item itemvalue="Node.js.vue.js (1)" />
-      <item itemvalue="Node.js.index.js" />
     </list>
     <recent_temporary>
       <list>
@@ -229,23 +200,22 @@
       <updated>1558029006793</updated>
       <workItem from="1558029010527" duration="5052000" />
       <workItem from="1558034455804" duration="6494000" />
-      <workItem from="1558377083486" duration="6143000" />
+      <workItem from="1558377083486" duration="6526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17689000" />
+    <option name="totallyTimeSpent" value="18072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24107143" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24107143" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49330357" visible="true" weight="0.2803419" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49330357" visible="true" weight="0.2803419" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -313,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="253">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
