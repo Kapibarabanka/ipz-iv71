@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Kapibarabanka/ipz-iv71#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "html": "^1.0.0",
+    "marked": "^0.6.2",
     "pg": "^7.11.0",
     "vue": "^2.6.10"
   }
