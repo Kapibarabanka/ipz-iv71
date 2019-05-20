@@ -1,0 +1,24 @@
+{
+  "name": "ipz-iv71",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kapibarabanka/ipz-iv71.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kapibarabanka/ipz-iv71/issues"
+  },
+  "homepage": "https://github.com/Kapibarabanka/ipz-iv71#readme",
+  "dependencies": {
+    "pg": "^7.11.0",
+    "vue": "^2.6.10"
+  }
+}
