@@ -16,4 +16,7 @@ module.exports = function(app) {
     app.get("/edit", function(request, response){
         response.render("edit_page");
     });
+    app.get("/me", function(request, response){
+        response.render("personal_page");
+    });
 };
