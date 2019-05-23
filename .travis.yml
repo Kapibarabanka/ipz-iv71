@@ -7,3 +7,9 @@ node_js:
 branches:
   only:
     - master
+
+deploy:
+  provider: heroku
+  app: "ipz-iv71"
+  api_key:
+    secure: "542099a2-3ef7-4e16-af96-fcb7d940980a"
