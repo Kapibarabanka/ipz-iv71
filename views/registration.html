@@ -39,7 +39,16 @@
     <input type="text" id="password_reg" placeholder="Введіть пароль..."/><br/>
     <label for="password_check">Повторіть пароль:</label>
     <input type="text" id="password_check" placeholder="Повторіть пароль..."/><br/>
-    <input type="button" value="Зареєструватись"/>
+<div>
+    <button @click="">Зареєструватись</button>
+    <script defer src="button_pressed.js"></script>
+    <ul class="errors">
+        <li v-show="!validation.name">Fields cannot be empty.</li>
+    </ul>
+</div>
+
+
+
 </form>
 
 </body>
